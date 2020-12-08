@@ -1,5 +1,5 @@
-title: Hi I'm NerDongjin
-author: Dongjin Park
+title: DoolDa's Blog
+author: Hi I'm DoolDa
 email: peter9378@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -15,18 +15,17 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: this is title
-  tagline: Developer.
+  title: 눈누난나
+  tagline: DoolDa
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
     github:  peter9378
-    linkedIn: in/peter9378
+    linkedIn: in/dongjin-park-054922116/
  
 
 # If you want to link only specific pages in your header, uncomment
