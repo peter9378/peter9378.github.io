@@ -68,7 +68,7 @@ Google Cloud Platform 사용 권한을 얻었다면 이제 사용할 api를 선�
 
 이제 해당 json파일을 `GOOGLE_APPLICATION_CREDENTIALS` 환경변수로 지정하여 인증하면 선택한 구글 API를 사용할 수 있다.
 
-여기까지 구글 api 사용을 위한 간단한 과정을 소개했습니다.
+여기까지 구글 api 사용을 위한 간단한 과정을 소개했다.
 
 -----
 
