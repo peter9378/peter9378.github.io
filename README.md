@@ -1,3 +1,5 @@
+## - DoolDa Blog -
+Forked from thelehhman.com
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
