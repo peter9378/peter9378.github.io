@@ -32,7 +32,7 @@ date:   2020-09-30 12:28:36 +0900
 
 ### 후기
 
-개인적으로 [백준]([https://www.acmicpc.net/](https://www.acmicpc.net/)) 200문제 이상, [리트코드 탑100]([https://leetcode.com/problemset/top-100-liked-questions/](https://leetcode.com/problemset/top-100-liked-questions/)) 중 20문제만 풀어봤어도 무난히 풀 수 있는 난이도라고 생각한다.
+개인적으로 [백준](https://www.acmicpc.net/) 200문제 이상, [리트코드 탑100](https://leetcode.com/problemset/top-100-liked-questions/) 중 20문제만 풀어봤어도 무난히 풀 수 있는 난이도라고 생각한다.
 
 - 서류 + 코딩테스트를 함께 평가한다고 안내받았던 것 같기도 하고..기억이 가물가물 한데, 일단 문제를 다 풀었다고 생각했고 합격 통보를 받았다.
 - 마찬가지로 코딩테스트를 잘 봤음에도 서류를 함께 평가해선지 탈락하는 경우가 있는 것 같다. 서류는 안본다고 생각해서 아무렇게나 막 쓰지 말자.
@@ -46,10 +46,10 @@ cs 기초(os, 네트워크, 자료구조, 알고리즘, db)위주로 충실히 �
 
 웹상에서 구할 수 있는 면접 기출문제를 모두 준비했다. 역시 내 나름대로의 답변으로 문서화했고, 몇번이고 반복독을 통해 완전히 이해하려고 노력했다.
 
-- [한재엽님 깃허브 repository]([https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner))와
-- [Maxim Abramchuck의 깃허브 repository]([https://github.com/MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions))를 참고했고, 큰 도움이 되었다.
+- [한재엽님 깃허브 repository](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)와
+- [Maxim Abramchuck의 깃허브 repository](https://github.com/MaximAbramchuck/awesome-interview-questions)를 참고했고, 큰 도움이 되었다.
 
-개인적으로 [기사]([http://www.bloter.net/archives/245110](http://www.bloter.net/archives/245110))의 기출문제는 참고하는 것을 추천하지 않는다. 더 좋은 자료가 여러 블로그나 깃허브 repository 등등에 널리고 널렸다.
+개인적으로 [기사](http://www.bloter.net/archives/245110)의 기출문제는 참고하는 것을 추천하지 않는다. 더 좋은 자료가 여러 블로그나 깃허브 repository 등등에 널리고 널렸다.
 
 기술 외에 개인 PR을 위한 프로젝트 설명, 자기소개 등을 준비했다. 서류에 기입한 프로젝트는 정말 완전히 숙지하거나, 듬성듬성 참여한 프로젝트인 경우 기입하지 말 것을 **강력하게** 추천한다.
 
